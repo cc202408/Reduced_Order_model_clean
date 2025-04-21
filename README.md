@@ -53,7 +53,6 @@ U, s, V = randomized_svd(X, n_components=svd_rank,random_state=42)
 5. you can also use the utils.py in folder .../code_utils/utils.py to replace the .../pyDMD/pydmd/utils.py
 
 ## For SINDy-SHRED
-## acknowlege: https://github.com/gaoliyao/sindy-shred
 > clone the source code
 ```
 git submodule add https://github.com/gaoliyao/sindy-shred.git SINDy_SHRED
@@ -62,3 +61,5 @@ git submodule add https://github.com/gaoliyao/sindy-shred.git SINDy_SHRED
 ## run SINDy-SHRED
 T2M data: project_SINDy_SHRED_t2m.ipynb
 SLP data: project_SINDy_SHRED_slp.ipynb
+
+## acknowlege: https://github.com/gaoliyao/sindy-shred
