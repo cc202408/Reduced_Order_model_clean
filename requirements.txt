@@ -1,0 +1,16 @@
+##---- for data ---##
+scipy
+scikit-learn
+xarray
+
+##---- for plot ---##
+matplotlib
+cartopy
+
+##---- for SINDy-SHERD ---##
+pysindy
+torch
+
+##---- for jupyter notebook ---##
+notebook
+ipykernel
