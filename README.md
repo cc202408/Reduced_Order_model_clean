@@ -4,8 +4,8 @@
 
 > Clone project
 ```
-git clone 
-cd ME5311
+git clone https://github.com/cc202408/Reduced_Order_model_clean.git
+cd Reduced_Order_model_clean
 ```
 
 > Create virtual environment
