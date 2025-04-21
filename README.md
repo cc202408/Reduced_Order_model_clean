@@ -62,4 +62,4 @@ git submodule add https://github.com/gaoliyao/sindy-shred.git SINDy_SHRED
 T2M data: project_SINDy_SHRED_t2m.ipynb
 SLP data: project_SINDy_SHRED_slp.ipynb
 
-## acknowlege: https://github.com/gaoliyao/sindy-shred
+## Acknowlege: https://github.com/gaoliyao/sindy-shred
